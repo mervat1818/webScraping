@@ -11,13 +11,13 @@ To run this project, you need the following:
 
  **Environment Setup
 Follow these steps to set up the environment:
-1. Install JDK 22: - Download and install JDK 22 from [Oracle](https://www.oracle.com/java/technologies/downloads/)
-2.  Set the `JAVA_HOME` environment variable to point to your JDK installation. 
-Install Maven:
-1- 	Download and install Maven from Apache Maven.
-2- Add Maven to your system PATH.
-Clone the Repository: 
-•	Clone this repository to your local machine:
+-  Install JDK 22:  Download and install JDK 22 from [Oracle](https://www.oracle.com/java/technologies/downloads/)
+-   Set the `JAVA_HOME` environment variable to point to your JDK installation. 
+- Install Maven:
+  - Download and install Maven from Apache Maven.
+  - Add Maven to your system PATH.
+- Clone the Repository: 
+  - Clone this repository to your local machine:
 https://github.com/mervat1818/webScraping.git
 
 **Steps to Run the Script
